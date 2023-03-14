@@ -16,6 +16,7 @@ node_modules
 *.cert
 *.pem
 *.key
+k8s.yaml
 # non-production
 appsettings.Development.json
 **/launchSettings.json
