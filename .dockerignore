@@ -1,0 +1,21 @@
+# downloaded
+node_modules
+# built
+**/bin
+**/obj
+# temp
+*.tmp
+*.log
+*.orig
+# user-specific
+**/*.user
+.vs
+#.vscode
+# secrets
+.env
+*.cert
+*.pem
+*.key
+# non-production
+appsettings.Development.json
+**/launchSettings.json
